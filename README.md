@@ -52,6 +52,3 @@ Aggregated data by:
    ### Conclusion
 Revenue performance is driven by time-based demand, strong product preferences, and store-level differences. By focusing on peak periods, top products, and targeted strategies, the business can improve performance and drive sustainable growth.
      
-   - 
-- Brainstorming using Miro
-- Data processing using Databricks
